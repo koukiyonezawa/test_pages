@@ -2,7 +2,7 @@
 
 .first-view {
   height: calc(100vh - 110px);
-  background-image: url(../images/index/lab-empty.JPG);
+  background-image: url(https://github.com/koukiyonezawa/test_pages/blob/main/images/index/lab-empty.JPG?raw=true);
   background-repeat: no-repeat;
   background-position: center center;
   background-size: cover;
@@ -126,7 +126,7 @@
 @media (max-width: 800px) {
   .first-view {
     height: calc(100vh - 50px);
-    background-image: url(../images/index/lab-empty-sp.jpg);
+    background-image: url(https://github.com/koukiyonezawa/test_pages/blob/main/images/index/lab-empty-sp.JPG?raw=true);
     align-items: flex-start;
   }
 
